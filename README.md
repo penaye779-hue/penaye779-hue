@@ -74,12 +74,12 @@ Soon I will showcase:
 
 <br>
 
-- 🏅 **[Backend web developement]**  
-  *Completed on [Date]*  
+-  🏅 **Backend Development Certificate — ALX**  
+  *Completed on March 2026*  
   <br>
   <img src="https://savanna.alxafrica.com/certificates/sB7npJXyhM" width="400px"/>
   <br>
-  [🔗 View Certificate]([LINK])
+  [🔗 View Certificate](https://savanna.alxafrica.com/certificates/sB7npJXyhM)
 
 ---
 

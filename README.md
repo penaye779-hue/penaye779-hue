@@ -74,10 +74,10 @@ Soon I will showcase:
 
 <br>
 
-- 🏅 **[Your Second Certificate Name]**  
+- 🏅 **[Backend web developement]**  
   *Completed on [Date]*  
   <br>
-  <img src="[IMAGE_LINK]" width="400px"/>
+  <img src="https://savanna.alxafrica.com/certificates/sB7npJXyhM" width="400px"/>
   <br>
   [🔗 View Certificate]([LINK])
 

@@ -97,7 +97,7 @@ Soon I will showcase:
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/peniel-tsega-334609348/  
 - 💻 GitHub: https://github.com/penaye779-hue  
-- 📧 Email: your-email@example.com  
+- 📧 Email: penaye779@gmail.com  
 
 ---
 
